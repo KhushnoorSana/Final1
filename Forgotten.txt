@@ -1,5 +1,6 @@
 Burn the page
 making more changes for more practice
 Now I can do it again
+Using git add --all
 
 
